@@ -33,7 +33,7 @@ A futuristic e-commerce web application built with React, TypeScript, and modern
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nexus-store.git
+git clone https://github.com/yourusername/Front-End-Store.git
 cd nexus-store
 ```
 
